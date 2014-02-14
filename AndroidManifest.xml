@@ -1833,6 +1833,9 @@
             android:theme="@style/CryptKeeperBlankTheme"
         />
 
+	<!-- SystemApp Remover -->
+        <activity android:name="com.android.settings.slim.fragments.SystemappRemover" />
+
         <!-- LiveDisplay settings -->
         <activity android:name="Settings$LiveDisplayActivity"
                 android:label="@string/live_display_title"
