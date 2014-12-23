@@ -1069,4 +1069,7 @@
     <string name="chamber_title">Chamber of secrets</string>
     <string name="chamber_toast">The chamber of secrets has opened</string>
 
+    <!-- Viper4Android -->
+    <string name="viper_title">Viper4Android</string>
+
 </resources>
