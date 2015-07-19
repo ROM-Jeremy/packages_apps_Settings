@@ -48,6 +48,11 @@
             android:title="@string/qs_brightness_slider_title"
             android:defaultValue="true"/>
 
+	<com.android.settings.slim.SecureSettingSwitchPreference
+            android:key="qs_colors"
+            android:title="@string/qs_colors_title"
+            android:fragment="com.android.settings.slim.QSColors" />
+
         <com.android.settings.slim.SecureSettingSwitchPreference
             android:key="qs_location_advanced"
             android:title="@string/qs_advanced_location_title"
