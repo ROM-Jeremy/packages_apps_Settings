@@ -1601,4 +1601,8 @@
     <string name="system_app_remover">System App Remover</string>
     <string name="systemappremover_summary">Remove system apps at your own risk</string>
 
+    <!-- Time-context headers in notification header -->
+    <string name="status_bar_custom_header_title">Custom header image</string>
+    <string name="status_bar_custom_header_summary">Enable notification panel header image</string>
+
 </resources>
